@@ -1,4 +1,29 @@
-# DIO - Trilha Java Básico
+
+# Desafio - Controle de Fluxo
+
+#### Desenvolvido com Java na IDE Eclipse para resolução do desafio de controle de fluxo com Java.
+
+#### Proposto no bootcamp "Bradesco Java Cloud Native", da [DIO](www.dio.me).
+
+#### Estrutura:
+- Classe Contador:
+	- Lê dois 'parâmetros' informados pelo usuário, sendo números inteiros;
+ 	- Tenta subtrair o segundo parâmetro pelo primeiro, caso o segundo seja o maior;
+  	- Se o segundo não for maior, lança a exceção ParametrosInvalidosException (exceção customizada);
+  	- Com o valor da subtração 'contagem', realiza o número de iterações no loop for imprimindo o respecitvo número de 1 a 'contagem'.
+
+- Classe ParametrosInvalidosException:
+	- Exceção customizada, estende da classe Exception;
+ 	- Utiliza o construtor super(errorMessage), onde o parâmetro é a string informada quando um método lança a exceção.
+  
+#### Resolvido por:
+- [HeberFHLemes](https://github.com/HeberFHLemes)
+
+<hr>
+
+# Proposta do desafio: 
+
+## DIO - Trilha Java Básico
 www.dio.me
 
 #### Autores
