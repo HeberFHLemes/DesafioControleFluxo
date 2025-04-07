@@ -3,7 +3,7 @@
 
 #### Desenvolvido com Java na IDE Eclipse para resolução do desafio de controle de fluxo com Java.
 
-#### Proposto no bootcamp "Bradesco Java Cloud Native", da [DIO](www.dio.me).
+#### Proposto no bootcamp "Bradesco Java Cloud Native", da [DIO](https://www.dio.me/).
 
 #### Estrutura:
 - Classe Contador:
